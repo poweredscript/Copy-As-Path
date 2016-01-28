@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\bin\Debug\Copy As Path.exe.config
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\bin\Debug\Copy As Path.exe
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\bin\Debug\Copy As Path.pdb
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\obj\Debug\Copy As Path.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\obj\Debug\Copy As Path.exe
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\obj\Debug\Copy As Path.pdb
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\obj\Debug\Copy As Path.csproj.ResolveComReference.cache
+D:\Visual Studio\Projects\Copy As Path\Copy As Path\bin\Debug\Interop.IWshRuntimeLibrary.dll
